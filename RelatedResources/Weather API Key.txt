@@ -1,0 +1,20 @@
+9bd6d5d91c8c2e9c52168f0f447e7eeb
+
+
+http://api.openweathermap.org/data/2.5/forecast/daily?id=524901&APPID=9bd6d5d91c8c2e9c52168f0f447e7eeb
+
+
+
+
+
+http://api.openweathermap.org/data/2.5/find?q=London,uk&units=metric&APPID=9bd6d5d91c8c2e9c52168f0f447e7eeb
+
+
+api.openweathermap.org/data/2.5/forecast/daily?q=London,uk&units=metric&APPID=9bd6d5d91c8c2e9c52168f0f447e7eeb
+
+
+daily?
+// Use this one
+api.openweathermap.org/data/2.5/forecast/daily?q=London,uk&units=metric&APPID=9bd6d5d91c8c2e9c52168f0f447e7eeb
+
+String ImgUrl = "http://openweathermap.org/img/w/";
